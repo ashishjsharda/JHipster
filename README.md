@@ -195,3 +195,19 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [protractor]: https://angular.github.io/protractor/
 [leaflet]: http://leafletjs.com/
 [definitelytyped]: http://definitelytyped.org/
+
+
+
+![2021-04-18_09-28-24](https://user-images.githubusercontent.com/8853866/115147485-2fbdc000-a029-11eb-85e4-3f584206106e.png)
+
+![2](https://user-images.githubusercontent.com/8853866/115147494-34827400-a029-11eb-987c-87f96bb60423.png)
+
+![3](https://user-images.githubusercontent.com/8853866/115147501-3a785500-a029-11eb-8220-abb462024b5f.png)
+
+![4](https://user-images.githubusercontent.com/8853866/115147507-4106cc80-a029-11eb-9f3b-702701c1ba23.png)
+
+![5](https://user-images.githubusercontent.com/8853866/115147520-4f54e880-a029-11eb-9fcd-f73b06e1ce56.png)
+
+![6](https://user-images.githubusercontent.com/8853866/115147529-54b23300-a029-11eb-920c-cbf49c1e7479.png)
+
+![7](https://user-images.githubusercontent.com/8853866/115147531-5a0f7d80-a029-11eb-98ba-22608c8f2230.png)
